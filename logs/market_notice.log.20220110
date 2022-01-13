@@ -1,0 +1,2446 @@
+2022-01-10 00:54:41,382 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 00:55:56,764 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 00:55:57,796 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 01:04:45,844 - HTTPSConnectionPool(host='pro-api.coinmarketcap.com', port=443): Max retries exceeded with url: /v1/cryptocurrency/quotes/latest?symbol=BABY%2CMILK (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 01:09:46,886 - HTTPSConnectionPool(host='pro-api.coinmarketcap.com', port=443): Max retries exceeded with url: /v1/cryptocurrency/quotes/latest?symbol=BABY%2CMILK (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 01:24:48,980 - HTTPSConnectionPool(host='pro-api.coinmarketcap.com', port=443): Max retries exceeded with url: /v1/cryptocurrency/quotes/latest?symbol=BABY%2CMILK (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 01:44:03,233 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Read timed out.
+2022-01-10 01:44:06,501 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Read timed out.
+2022-01-10 01:44:07,974 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Read timed out. (read timeout=1)
+2022-01-10 01:44:08,994 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 01:44:52,539 - HTTPSConnectionPool(host='pro-api.coinmarketcap.com', port=443): Read timed out. (read timeout=1)
+2022-01-10 01:44:52,752 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 02:05:00,020 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Read timed out.
+2022-01-10 02:29:41,406 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 02:41:00,832 - HTTPSConnectionPool(host='pro-api.coinmarketcap.com', port=443): Read timed out. (read timeout=1)
+2022-01-10 03:36:07,032 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Read timed out.
+2022-01-10 03:36:08,050 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 03:36:08,854 - HTTPSConnectionPool(host='pro-api.coinmarketcap.com', port=443): Max retries exceeded with url: /v1/cryptocurrency/quotes/latest?symbol=BABY%2CMILK (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 03:36:09,067 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 03:36:10,086 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 03:36:11,107 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 03:36:12,123 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 03:36:13,143 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 03:36:14,160 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 03:36:15,182 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 03:36:16,199 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 03:36:17,223 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 03:36:18,240 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 03:37:49,268 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 03:39:37,339 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 03:46:10,862 - HTTPSConnectionPool(host='pro-api.coinmarketcap.com', port=443): Read timed out. (read timeout=1)
+2022-01-10 04:29:45,483 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 04:48:43,992 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 05:06:19,719 - HTTPSConnectionPool(host='pro-api.coinmarketcap.com', port=443): Max retries exceeded with url: /v1/cryptocurrency/quotes/latest?symbol=BABY%2CMILK (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 05:14:43,547 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 05:21:21,940 - HTTPSConnectionPool(host='pro-api.coinmarketcap.com', port=443): Read timed out. (read timeout=1)
+2022-01-10 06:28:49,586 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 07:02:47,933 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 07:31:36,185 - HTTPSConnectionPool(host='pro-api.coinmarketcap.com', port=443): Read timed out. (read timeout=1)
+2022-01-10 07:37:41,632 - HTTPSConnectionPool(host='service.thecryptoyou.io', port=443): Max retries exceeded with url: /nft/market/list (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 08:26:42,194 - HTTPSConnectionPool(host='pro-api.coinmarketcap.com', port=443): Max retries exceeded with url: /v1/cryptocurrency/quotes/latest?symbol=BABY%2CMILK (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1108: The handshake operation timed out')))
+2022-01-10 10:39:53,751 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.35USDT) 84.23%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:40:00,303 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:40:06,797 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:40:13,290 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:40:19,824 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:40:27,697 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:40:34,208 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:40:40,701 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:40:47,416 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:40:53,973 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:41:00,455 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:42:20,541 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:42:26,990 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:42:33,543 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:42:39,974 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:42:46,473 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:42:52,961 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:42:59,432 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:43:05,893 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:43:12,368 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:45:41,904 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:45:48,451 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:45:54,963 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:46:01,643 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:46:08,268 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:46:14,765 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:46:21,298 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:46:27,761 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:46:34,273 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:46:40,781 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:46:47,294 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:46:53,779 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:47:00,265 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(644.57USDT) 84.34%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:47:06,747 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:47:13,312 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:47:19,811 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:47:26,318 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:47:33,108 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:47:39,716 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:47:46,300 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:47:52,786 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:47:59,475 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:48:05,919 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:48:12,418 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:48:18,919 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:48:25,412 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:48:31,911 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:48:38,412 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:48:44,894 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:48:51,417 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:48:57,967 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:49:04,445 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:49:10,904 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:49:17,368 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:49:24,095 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:49:30,575 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:49:37,030 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:49:43,554 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:49:50,050 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:49:56,512 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:50:03,013 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:50:09,464 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:50:15,968 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:50:22,486 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:50:28,947 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:50:35,529 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:50:42,066 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:50:48,790 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:50:55,349 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:51:02,052 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:51:08,567 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:51:15,047 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:51:21,497 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:51:27,971 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:51:34,683 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:51:41,228 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:51:47,700 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:51:54,225 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:52:00,677 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(643.78USDT) 83.85%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:52:07,130 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(645.04USDT) 84.22%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:52:13,639 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(645.04USDT) 84.22%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:52:20,232 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(645.04USDT) 84.22%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:52:26,765 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(645.04USDT) 84.22%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:52:33,325 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(645.04USDT) 84.22%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:52:39,815 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(645.04USDT) 84.22%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:52:46,577 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(645.04USDT) 84.22%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:52:53,072 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(645.04USDT) 84.22%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:52:59,588 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(645.04USDT) 84.22%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:53:06,066 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(645.04USDT) 84.22%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:53:12,525 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(645.04USDT) 84.22%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:53:19,047 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(645.04USDT) 84.22%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:53:25,501 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(645.04USDT) 84.22%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:53:31,982 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(645.04USDT) 84.22%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:53:38,741 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(645.04USDT) 84.22%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:53:45,253 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(645.04USDT) 84.22%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:53:51,732 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(645.04USDT) 84.22%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:53:58,247 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(645.04USDT) 84.22%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:54:04,750 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(645.04USDT) 84.22%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:54:11,276 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(645.04USDT) 84.22%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 10:54:17,988 - 
+************************************************************
+SR 99 330 low price notice
+ Price : 1000.00 BABY(645.04USDT) 84.22%
+ Baby Name :Hardware Miner
+ Baby Name :SR
+ Main Attr(Grit) :99
+ Sub Attr(Vitality) :73
+ Level : 4
+ TotalAttr : 330
+ TotalScore : 541.52
+ ID : https://thecryptoyou.io/market/11325848292729615411535516998386301304560009308762310223251721519417176794107
+
+2022-01-10 11:27:26,105 - 
+******************************************************************************************
+SSR 90 low price notice
+ Price : 199.00 BABY(127.83USDT) 56.54%
+ Baby Name :Bitcoin Holder
+ Baby Name :SSR
+ Main Attr(Vitality) :91
+ Sub Attr(Grit) :73
+ Level : 3
+ TotalAttr : 396
+ TotalScore : 583.44
+ ID : https://thecryptoyou.io/market/19776331069718833738463937435014023091612821105739584045826976811706393138821
+
+2022-01-10 11:27:32,623 - 
+******************************************************************************************
+SSR 90 low price notice
+ Price : 199.00 BABY(127.83USDT) 56.54%
+ Baby Name :Bitcoin Holder
+ Baby Name :SSR
+ Main Attr(Vitality) :91
+ Sub Attr(Grit) :73
+ Level : 3
+ TotalAttr : 396
+ TotalScore : 583.44
+ ID : https://thecryptoyou.io/market/19776331069718833738463937435014023091612821105739584045826976811706393138821
+
+2022-01-10 11:27:39,335 - 
+******************************************************************************************
+SSR 90 low price notice
+ Price : 199.00 BABY(127.83USDT) 56.54%
+ Baby Name :Bitcoin Holder
+ Baby Name :SSR
+ Main Attr(Vitality) :91
+ Sub Attr(Grit) :73
+ Level : 3
+ TotalAttr : 396
+ TotalScore : 583.44
+ ID : https://thecryptoyou.io/market/19776331069718833738463937435014023091612821105739584045826976811706393138821
+
+2022-01-10 11:27:45,930 - 
+******************************************************************************************
+SSR 90 low price notice
+ Price : 199.00 BABY(127.83USDT) 56.54%
+ Baby Name :Bitcoin Holder
+ Baby Name :SSR
+ Main Attr(Vitality) :91
+ Sub Attr(Grit) :73
+ Level : 3
+ TotalAttr : 396
+ TotalScore : 583.44
+ ID : https://thecryptoyou.io/market/19776331069718833738463937435014023091612821105739584045826976811706393138821
+
+2022-01-10 11:27:52,449 - 
+******************************************************************************************
+SSR 90 low price notice
+ Price : 199.00 BABY(127.83USDT) 56.54%
+ Baby Name :Bitcoin Holder
+ Baby Name :SSR
+ Main Attr(Vitality) :91
+ Sub Attr(Grit) :73
+ Level : 3
+ TotalAttr : 396
+ TotalScore : 583.44
+ ID : https://thecryptoyou.io/market/19776331069718833738463937435014023091612821105739584045826976811706393138821
+
+2022-01-10 11:27:58,955 - 
+******************************************************************************************
+SSR 90 low price notice
+ Price : 199.00 BABY(127.83USDT) 56.54%
+ Baby Name :Bitcoin Holder
+ Baby Name :SSR
+ Main Attr(Vitality) :91
+ Sub Attr(Grit) :73
+ Level : 3
+ TotalAttr : 396
+ TotalScore : 583.44
+ ID : https://thecryptoyou.io/market/19776331069718833738463937435014023091612821105739584045826976811706393138821
+
+2022-01-10 11:28:05,462 - 
+******************************************************************************************
+SSR 90 low price notice
+ Price : 199.00 BABY(127.83USDT) 56.54%
+ Baby Name :Bitcoin Holder
+ Baby Name :SSR
+ Main Attr(Vitality) :91
+ Sub Attr(Grit) :73
+ Level : 3
+ TotalAttr : 396
+ TotalScore : 583.44
+ ID : https://thecryptoyou.io/market/19776331069718833738463937435014023091612821105739584045826976811706393138821
+
+2022-01-10 11:28:11,979 - 
+******************************************************************************************
+SSR 90 low price notice
+ Price : 199.00 BABY(127.83USDT) 56.54%
+ Baby Name :Bitcoin Holder
+ Baby Name :SSR
+ Main Attr(Vitality) :91
+ Sub Attr(Grit) :73
+ Level : 3
+ TotalAttr : 396
+ TotalScore : 583.44
+ ID : https://thecryptoyou.io/market/19776331069718833738463937435014023091612821105739584045826976811706393138821
+
+2022-01-10 11:28:18,570 - 
+******************************************************************************************
+SSR 90 low price notice
+ Price : 199.00 BABY(127.83USDT) 56.54%
+ Baby Name :Bitcoin Holder
+ Baby Name :SSR
+ Main Attr(Vitality) :91
+ Sub Attr(Grit) :73
+ Level : 3
+ TotalAttr : 396
+ TotalScore : 583.44
+ ID : https://thecryptoyou.io/market/19776331069718833738463937435014023091612821105739584045826976811706393138821
+
+2022-01-10 11:28:25,118 - 
+******************************************************************************************
+SSR 90 low price notice
+ Price : 199.00 BABY(127.83USDT) 56.54%
+ Baby Name :Bitcoin Holder
+ Baby Name :SSR
+ Main Attr(Vitality) :91
+ Sub Attr(Grit) :73
+ Level : 3
+ TotalAttr : 396
+ TotalScore : 583.44
+ ID : https://thecryptoyou.io/market/19776331069718833738463937435014023091612821105739584045826976811706393138821
+
+2022-01-10 11:28:31,588 - 
+******************************************************************************************
+SSR 90 low price notice
+ Price : 199.00 BABY(127.83USDT) 56.54%
+ Baby Name :Bitcoin Holder
+ Baby Name :SSR
+ Main Attr(Vitality) :91
+ Sub Attr(Grit) :73
+ Level : 3
+ TotalAttr : 396
+ TotalScore : 583.44
+ ID : https://thecryptoyou.io/market/19776331069718833738463937435014023091612821105739584045826976811706393138821
+
+2022-01-10 19:00:01,552 - 
+*******************************************************
+SR 99 low price notice
+ Price : 8888.00 MILK(9.22USDT) 92.22%
+ Baby Name :Altcoin Collector
+ Baby Name :SR
+ Main Attr(Stamina) :99
+ Sub Attr(Grit) :59
+ Level : 1
+ TotalAttr : 296
+ TotalScore : 386.54
+ ID : https://thecryptoyou.io/market/93784005298925380750066144666520986749304039838117607120817518829233647518864
+
+2022-01-10 19:00:08,081 - 
+*******************************************************
+SR 99 low price notice
+ Price : 8888.00 MILK(9.22USDT) 92.22%
+ Baby Name :Altcoin Collector
+ Baby Name :SR
+ Main Attr(Stamina) :99
+ Sub Attr(Grit) :59
+ Level : 1
+ TotalAttr : 296
+ TotalScore : 386.54
+ ID : https://thecryptoyou.io/market/93784005298925380750066144666520986749304039838117607120817518829233647518864
+
+2022-01-10 19:00:14,707 - 
+*******************************************************
+SR 99 low price notice
+ Price : 8888.00 MILK(9.22USDT) 92.22%
+ Baby Name :Altcoin Collector
+ Baby Name :SR
+ Main Attr(Stamina) :99
+ Sub Attr(Grit) :59
+ Level : 1
+ TotalAttr : 296
+ TotalScore : 386.54
+ ID : https://thecryptoyou.io/market/93784005298925380750066144666520986749304039838117607120817518829233647518864
+
+2022-01-10 19:00:21,384 - 
+*******************************************************
+SR 99 low price notice
+ Price : 8888.00 MILK(9.22USDT) 92.22%
+ Baby Name :Altcoin Collector
+ Baby Name :SR
+ Main Attr(Stamina) :99
+ Sub Attr(Grit) :59
+ Level : 1
+ TotalAttr : 296
+ TotalScore : 386.54
+ ID : https://thecryptoyou.io/market/93784005298925380750066144666520986749304039838117607120817518829233647518864
+
+2022-01-10 19:00:27,808 - 
+*******************************************************
+SR 99 low price notice
+ Price : 8888.00 MILK(9.22USDT) 92.22%
+ Baby Name :Altcoin Collector
+ Baby Name :SR
+ Main Attr(Stamina) :99
+ Sub Attr(Grit) :59
+ Level : 1
+ TotalAttr : 296
+ TotalScore : 386.54
+ ID : https://thecryptoyou.io/market/93784005298925380750066144666520986749304039838117607120817518829233647518864
+
+2022-01-10 19:00:34,403 - 
+*******************************************************
+SR 99 low price notice
+ Price : 8888.00 MILK(9.22USDT) 92.22%
+ Baby Name :Altcoin Collector
+ Baby Name :SR
+ Main Attr(Stamina) :99
+ Sub Attr(Grit) :59
+ Level : 1
+ TotalAttr : 296
+ TotalScore : 386.54
+ ID : https://thecryptoyou.io/market/93784005298925380750066144666520986749304039838117607120817518829233647518864
+
+2022-01-10 19:00:41,049 - 
+*******************************************************
+SR 99 low price notice
+ Price : 8888.00 MILK(9.22USDT) 92.22%
+ Baby Name :Altcoin Collector
+ Baby Name :SR
+ Main Attr(Stamina) :99
+ Sub Attr(Grit) :59
+ Level : 1
+ TotalAttr : 296
+ TotalScore : 386.54
+ ID : https://thecryptoyou.io/market/93784005298925380750066144666520986749304039838117607120817518829233647518864
+
+2022-01-10 19:00:47,598 - 
+*******************************************************
+SR 99 low price notice
+ Price : 8888.00 MILK(9.22USDT) 92.22%
+ Baby Name :Altcoin Collector
+ Baby Name :SR
+ Main Attr(Stamina) :99
+ Sub Attr(Grit) :59
+ Level : 1
+ TotalAttr : 296
+ TotalScore : 386.54
+ ID : https://thecryptoyou.io/market/93784005298925380750066144666520986749304039838117607120817518829233647518864
+
+2022-01-10 19:00:54,198 - 
+*******************************************************
+SR 99 low price notice
+ Price : 8888.00 MILK(9.22USDT) 92.22%
+ Baby Name :Altcoin Collector
+ Baby Name :SR
+ Main Attr(Stamina) :99
+ Sub Attr(Grit) :59
+ Level : 1
+ TotalAttr : 296
+ TotalScore : 386.54
+ ID : https://thecryptoyou.io/market/93784005298925380750066144666520986749304039838117607120817518829233647518864
+
+2022-01-10 19:01:00,830 - 
+*******************************************************
+SR 99 low price notice
+ Price : 8888.00 MILK(9.22USDT) 92.22%
+ Baby Name :Altcoin Collector
+ Baby Name :SR
+ Main Attr(Stamina) :99
+ Sub Attr(Grit) :59
+ Level : 1
+ TotalAttr : 296
+ TotalScore : 386.54
+ ID : https://thecryptoyou.io/market/93784005298925380750066144666520986749304039838117607120817518829233647518864
+
+2022-01-10 19:01:07,423 - 
+*******************************************************
+SR 99 low price notice
+ Price : 8888.00 MILK(9.22USDT) 92.22%
+ Baby Name :Altcoin Collector
+ Baby Name :SR
+ Main Attr(Stamina) :99
+ Sub Attr(Grit) :59
+ Level : 1
+ TotalAttr : 296
+ TotalScore : 386.54
+ ID : https://thecryptoyou.io/market/93784005298925380750066144666520986749304039838117607120817518829233647518864
+
+2022-01-10 19:01:14,006 - 
+*******************************************************
+SR 99 low price notice
+ Price : 8888.00 MILK(9.22USDT) 92.22%
+ Baby Name :Altcoin Collector
+ Baby Name :SR
+ Main Attr(Stamina) :99
+ Sub Attr(Grit) :59
+ Level : 1
+ TotalAttr : 296
+ TotalScore : 386.54
+ ID : https://thecryptoyou.io/market/93784005298925380750066144666520986749304039838117607120817518829233647518864
+
+2022-01-10 19:01:21,572 - 
+*******************************************************
+SR 99 low price notice
+ Price : 8888.00 MILK(9.22USDT) 92.22%
+ Baby Name :Altcoin Collector
+ Baby Name :SR
+ Main Attr(Stamina) :99
+ Sub Attr(Grit) :59
+ Level : 1
+ TotalAttr : 296
+ TotalScore : 386.54
+ ID : https://thecryptoyou.io/market/93784005298925380750066144666520986749304039838117607120817518829233647518864
+
+2022-01-10 22:04:59,593 - 
+*****************************************************************
+R low price notice
+ Price : 5.00 BABY(3.16USDT) 78.95%
+ Baby Name :Crypto BABY
+ Baby Name :R
+ Main Attr(Mentality) :85
+ Sub Attr(Dexterity) :40
+ Level : 1
+ TotalAttr : 233
+ TotalScore : 307.45
+ ID : https://thecryptoyou.io/market/55920180991195804621905323919763655458676603331216545507879171439902310699463
+
+2022-01-10 22:05:06,262 - 
+*****************************************************************
+R low price notice
+ Price : 5.00 BABY(3.16USDT) 78.95%
+ Baby Name :Crypto BABY
+ Baby Name :R
+ Main Attr(Mentality) :85
+ Sub Attr(Dexterity) :40
+ Level : 1
+ TotalAttr : 233
+ TotalScore : 307.45
+ ID : https://thecryptoyou.io/market/55920180991195804621905323919763655458676603331216545507879171439902310699463
+
+2022-01-10 22:05:12,817 - 
+*****************************************************************
+R low price notice
+ Price : 5.00 BABY(3.16USDT) 78.95%
+ Baby Name :Crypto BABY
+ Baby Name :R
+ Main Attr(Mentality) :85
+ Sub Attr(Dexterity) :40
+ Level : 1
+ TotalAttr : 233
+ TotalScore : 307.45
+ ID : https://thecryptoyou.io/market/55920180991195804621905323919763655458676603331216545507879171439902310699463
+
+2022-01-10 22:05:19,414 - 
+*****************************************************************
+R low price notice
+ Price : 5.00 BABY(3.16USDT) 78.95%
+ Baby Name :Crypto BABY
+ Baby Name :R
+ Main Attr(Mentality) :85
+ Sub Attr(Dexterity) :40
+ Level : 1
+ TotalAttr : 233
+ TotalScore : 307.45
+ ID : https://thecryptoyou.io/market/55920180991195804621905323919763655458676603331216545507879171439902310699463
+
+2022-01-10 22:05:26,034 - 
+*****************************************************************
+R low price notice
+ Price : 5.00 BABY(3.16USDT) 78.95%
+ Baby Name :Crypto BABY
+ Baby Name :R
+ Main Attr(Mentality) :85
+ Sub Attr(Dexterity) :40
+ Level : 1
+ TotalAttr : 233
+ TotalScore : 307.45
+ ID : https://thecryptoyou.io/market/55920180991195804621905323919763655458676603331216545507879171439902310699463
+
+2022-01-10 22:05:32,800 - 
+*****************************************************************
+R low price notice
+ Price : 5.00 BABY(3.16USDT) 78.95%
+ Baby Name :Crypto BABY
+ Baby Name :R
+ Main Attr(Mentality) :85
+ Sub Attr(Dexterity) :40
+ Level : 1
+ TotalAttr : 233
+ TotalScore : 307.45
+ ID : https://thecryptoyou.io/market/55920180991195804621905323919763655458676603331216545507879171439902310699463
+
+2022-01-10 22:05:39,603 - 
+*****************************************************************
+R low price notice
+ Price : 5.00 BABY(3.16USDT) 78.95%
+ Baby Name :Crypto BABY
+ Baby Name :R
+ Main Attr(Mentality) :85
+ Sub Attr(Dexterity) :40
+ Level : 1
+ TotalAttr : 233
+ TotalScore : 307.45
+ ID : https://thecryptoyou.io/market/55920180991195804621905323919763655458676603331216545507879171439902310699463
+
+2022-01-10 22:05:46,226 - 
+*****************************************************************
+R low price notice
+ Price : 5.00 BABY(3.16USDT) 78.95%
+ Baby Name :Crypto BABY
+ Baby Name :R
+ Main Attr(Mentality) :85
+ Sub Attr(Dexterity) :40
+ Level : 1
+ TotalAttr : 233
+ TotalScore : 307.45
+ ID : https://thecryptoyou.io/market/55920180991195804621905323919763655458676603331216545507879171439902310699463
+
+2022-01-10 22:05:52,745 - 
+*****************************************************************
+R low price notice
+ Price : 5.00 BABY(3.16USDT) 78.95%
+ Baby Name :Crypto BABY
+ Baby Name :R
+ Main Attr(Mentality) :85
+ Sub Attr(Dexterity) :40
+ Level : 1
+ TotalAttr : 233
+ TotalScore : 307.45
+ ID : https://thecryptoyou.io/market/55920180991195804621905323919763655458676603331216545507879171439902310699463
+
+2022-01-10 22:05:59,313 - 
+*****************************************************************
+R low price notice
+ Price : 5.00 BABY(3.16USDT) 78.95%
+ Baby Name :Crypto BABY
+ Baby Name :R
+ Main Attr(Mentality) :85
+ Sub Attr(Dexterity) :40
+ Level : 1
+ TotalAttr : 233
+ TotalScore : 307.45
+ ID : https://thecryptoyou.io/market/55920180991195804621905323919763655458676603331216545507879171439902310699463
+
+2022-01-10 22:06:05,914 - 
+*****************************************************************
+R low price notice
+ Price : 5.00 BABY(3.16USDT) 78.95%
+ Baby Name :Crypto BABY
+ Baby Name :R
+ Main Attr(Mentality) :85
+ Sub Attr(Dexterity) :40
+ Level : 1
+ TotalAttr : 233
+ TotalScore : 307.45
+ ID : https://thecryptoyou.io/market/55920180991195804621905323919763655458676603331216545507879171439902310699463
+
+2022-01-10 22:06:12,597 - 
+*****************************************************************
+R low price notice
+ Price : 5.00 BABY(3.16USDT) 78.95%
+ Baby Name :Crypto BABY
+ Baby Name :R
+ Main Attr(Mentality) :85
+ Sub Attr(Dexterity) :40
+ Level : 1
+ TotalAttr : 233
+ TotalScore : 307.45
+ ID : https://thecryptoyou.io/market/55920180991195804621905323919763655458676603331216545507879171439902310699463
+
+2022-01-10 22:37:42,376 - 
+**********************************************************************************************************************************
+R low price notice
+ Price : 35.00 BABY(21.48USDT) 39.62%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :96
+ Sub Attr(Stamina) :33
+ Level : 2
+ TotalAttr : 209
+ TotalScore : 312.36
+ ID : https://thecryptoyou.io/market/48162226969902076072107852163081061279317311144246064125075494444928770898989
+
+2022-01-10 22:37:59,808 - 
+**********************************************************************************************************************************
+R low price notice
+ Price : 35.00 BABY(21.48USDT) 39.62%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :96
+ Sub Attr(Stamina) :33
+ Level : 2
+ TotalAttr : 209
+ TotalScore : 312.36
+ ID : https://thecryptoyou.io/market/48162226969902076072107852163081061279317311144246064125075494444928770898989
+
+2022-01-10 22:38:07,196 - 
+**********************************************************************************************************************************
+R low price notice
+ Price : 35.00 BABY(21.48USDT) 39.62%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :96
+ Sub Attr(Stamina) :33
+ Level : 2
+ TotalAttr : 209
+ TotalScore : 312.36
+ ID : https://thecryptoyou.io/market/48162226969902076072107852163081061279317311144246064125075494444928770898989
+
+2022-01-10 22:38:23,050 - 
+**********************************************************************************************************************************
+R low price notice
+ Price : 35.00 BABY(21.48USDT) 39.62%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :96
+ Sub Attr(Stamina) :33
+ Level : 2
+ TotalAttr : 209
+ TotalScore : 312.36
+ ID : https://thecryptoyou.io/market/48162226969902076072107852163081061279317311144246064125075494444928770898989
+
+2022-01-10 22:38:57,617 - 
+**********************************************************************************************************************************
+R low price notice
+ Price : 35.00 BABY(21.48USDT) 39.62%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :96
+ Sub Attr(Stamina) :33
+ Level : 2
+ TotalAttr : 209
+ TotalScore : 312.36
+ ID : https://thecryptoyou.io/market/48162226969902076072107852163081061279317311144246064125075494444928770898989
+
+2022-01-10 22:39:14,373 - 
+**********************************************************************************************************************************
+R low price notice
+ Price : 35.00 BABY(21.48USDT) 39.62%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :96
+ Sub Attr(Stamina) :33
+ Level : 2
+ TotalAttr : 209
+ TotalScore : 312.36
+ ID : https://thecryptoyou.io/market/48162226969902076072107852163081061279317311144246064125075494444928770898989
+
+2022-01-10 22:39:28,588 - 
+**************************************************************************************************************
+R low price notice
+ Price : 35.00 BABY(21.45USDT) 46.58%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :96
+ Sub Attr(Stamina) :33
+ Level : 2
+ TotalAttr : 209
+ TotalScore : 312.36
+ ID : https://thecryptoyou.io/market/48162226969902076072107852163081061279317311144246064125075494444928770898989
+
+2022-01-10 22:39:41,331 - 
+**************************************************************************************************************
+R low price notice
+ Price : 35.00 BABY(21.45USDT) 46.58%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :96
+ Sub Attr(Stamina) :33
+ Level : 2
+ TotalAttr : 209
+ TotalScore : 312.36
+ ID : https://thecryptoyou.io/market/48162226969902076072107852163081061279317311144246064125075494444928770898989
+
+2022-01-10 22:40:05,933 - 
+**************************************************************************************************************
+R low price notice
+ Price : 35.00 BABY(21.45USDT) 46.58%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :96
+ Sub Attr(Stamina) :33
+ Level : 2
+ TotalAttr : 209
+ TotalScore : 312.36
+ ID : https://thecryptoyou.io/market/48162226969902076072107852163081061279317311144246064125075494444928770898989
+
+2022-01-10 23:04:01,284 - 
+**********************************************************************
+SR 97 low price notice
+ Price : 7.50 BABY(4.57USDT) 76.23%
+ Baby Name :DeFi Farmer
+ Baby Name :SR
+ Main Attr(Strength) :97
+ Sub Attr(Vitality) :37
+ Level : 1
+ TotalAttr : 299
+ TotalScore : 386.32
+ ID : https://thecryptoyou.io/market/15396562719358406893746366751014106204676366591449768651183143596967798096350
+
+2022-01-10 23:04:08,320 - 
+**********************************************************************
+SR 97 low price notice
+ Price : 7.50 BABY(4.57USDT) 76.23%
+ Baby Name :DeFi Farmer
+ Baby Name :SR
+ Main Attr(Strength) :97
+ Sub Attr(Vitality) :37
+ Level : 1
+ TotalAttr : 299
+ TotalScore : 386.32
+ ID : https://thecryptoyou.io/market/15396562719358406893746366751014106204676366591449768651183143596967798096350
+
+2022-01-10 23:04:15,067 - 
+**********************************************************************
+SR 97 low price notice
+ Price : 7.50 BABY(4.57USDT) 76.23%
+ Baby Name :DeFi Farmer
+ Baby Name :SR
+ Main Attr(Strength) :97
+ Sub Attr(Vitality) :37
+ Level : 1
+ TotalAttr : 299
+ TotalScore : 386.32
+ ID : https://thecryptoyou.io/market/15396562719358406893746366751014106204676366591449768651183143596967798096350
+
+2022-01-10 23:04:22,074 - 
+**********************************************************************
+SR 97 low price notice
+ Price : 7.50 BABY(4.57USDT) 76.23%
+ Baby Name :DeFi Farmer
+ Baby Name :SR
+ Main Attr(Strength) :97
+ Sub Attr(Vitality) :37
+ Level : 1
+ TotalAttr : 299
+ TotalScore : 386.32
+ ID : https://thecryptoyou.io/market/15396562719358406893746366751014106204676366591449768651183143596967798096350
+
+2022-01-10 23:04:28,677 - 
+**********************************************************************
+SR 97 low price notice
+ Price : 7.50 BABY(4.57USDT) 76.23%
+ Baby Name :DeFi Farmer
+ Baby Name :SR
+ Main Attr(Strength) :97
+ Sub Attr(Vitality) :37
+ Level : 1
+ TotalAttr : 299
+ TotalScore : 386.32
+ ID : https://thecryptoyou.io/market/15396562719358406893746366751014106204676366591449768651183143596967798096350
+
+2022-01-10 23:04:35,444 - 
+**********************************************************************
+SR 97 low price notice
+ Price : 7.50 BABY(4.57USDT) 76.23%
+ Baby Name :DeFi Farmer
+ Baby Name :SR
+ Main Attr(Strength) :97
+ Sub Attr(Vitality) :37
+ Level : 1
+ TotalAttr : 299
+ TotalScore : 386.32
+ ID : https://thecryptoyou.io/market/15396562719358406893746366751014106204676366591449768651183143596967798096350
+
+2022-01-10 23:04:42,715 - 
+**********************************************************************
+SR 97 low price notice
+ Price : 7.50 BABY(4.57USDT) 76.23%
+ Baby Name :DeFi Farmer
+ Baby Name :SR
+ Main Attr(Strength) :97
+ Sub Attr(Vitality) :37
+ Level : 1
+ TotalAttr : 299
+ TotalScore : 386.32
+ ID : https://thecryptoyou.io/market/15396562719358406893746366751014106204676366591449768651183143596967798096350
+
+2022-01-10 23:04:49,309 - 
+**********************************************************************
+SR 97 low price notice
+ Price : 7.50 BABY(4.57USDT) 76.23%
+ Baby Name :DeFi Farmer
+ Baby Name :SR
+ Main Attr(Strength) :97
+ Sub Attr(Vitality) :37
+ Level : 1
+ TotalAttr : 299
+ TotalScore : 386.32
+ ID : https://thecryptoyou.io/market/15396562719358406893746366751014106204676366591449768651183143596967798096350
+
+2022-01-10 23:04:55,872 - 
+**********************************************************************
+SR 97 low price notice
+ Price : 7.50 BABY(4.57USDT) 76.23%
+ Baby Name :DeFi Farmer
+ Baby Name :SR
+ Main Attr(Strength) :97
+ Sub Attr(Vitality) :37
+ Level : 1
+ TotalAttr : 299
+ TotalScore : 386.32
+ ID : https://thecryptoyou.io/market/15396562719358406893746366751014106204676366591449768651183143596967798096350
+
+2022-01-10 23:05:02,548 - 
+**********************************************************************
+SR 97 low price notice
+ Price : 7.50 BABY(4.57USDT) 76.23%
+ Baby Name :DeFi Farmer
+ Baby Name :SR
+ Main Attr(Strength) :97
+ Sub Attr(Vitality) :37
+ Level : 1
+ TotalAttr : 299
+ TotalScore : 386.32
+ ID : https://thecryptoyou.io/market/15396562719358406893746366751014106204676366591449768651183143596967798096350
+
+2022-01-10 23:05:09,353 - 
+**********************************************************************
+SR 97 low price notice
+ Price : 7.50 BABY(4.57USDT) 76.23%
+ Baby Name :DeFi Farmer
+ Baby Name :SR
+ Main Attr(Strength) :97
+ Sub Attr(Vitality) :37
+ Level : 1
+ TotalAttr : 299
+ TotalScore : 386.32
+ ID : https://thecryptoyou.io/market/15396562719358406893746366751014106204676366591449768651183143596967798096350
+
+2022-01-10 23:05:15,890 - 
+**********************************************************************
+SR 97 low price notice
+ Price : 7.50 BABY(4.57USDT) 76.23%
+ Baby Name :DeFi Farmer
+ Baby Name :SR
+ Main Attr(Strength) :97
+ Sub Attr(Vitality) :37
+ Level : 1
+ TotalAttr : 299
+ TotalScore : 386.32
+ ID : https://thecryptoyou.io/market/15396562719358406893746366751014106204676366591449768651183143596967798096350
+
+2022-01-10 23:28:41,157 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.71USDT) 92.67%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :68
+ Sub Attr(Stamina) :54
+ Level : 1
+ TotalAttr : 235
+ TotalScore : 301.84
+ ID : https://thecryptoyou.io/market/42661949587302032949239243087924507618141612450502451028499196915989745349346
+
+2022-01-10 23:28:47,707 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.71USDT) 92.67%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :68
+ Sub Attr(Stamina) :54
+ Level : 1
+ TotalAttr : 235
+ TotalScore : 301.84
+ ID : https://thecryptoyou.io/market/42661949587302032949239243087924507618141612450502451028499196915989745349346
+
+2022-01-10 23:28:54,264 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.71USDT) 92.67%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :68
+ Sub Attr(Stamina) :54
+ Level : 1
+ TotalAttr : 235
+ TotalScore : 301.84
+ ID : https://thecryptoyou.io/market/42661949587302032949239243087924507618141612450502451028499196915989745349346
+
+2022-01-10 23:29:00,776 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.71USDT) 92.67%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :68
+ Sub Attr(Stamina) :54
+ Level : 1
+ TotalAttr : 235
+ TotalScore : 301.84
+ ID : https://thecryptoyou.io/market/42661949587302032949239243087924507618141612450502451028499196915989745349346
+
+2022-01-10 23:29:07,329 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.71USDT) 92.67%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :68
+ Sub Attr(Stamina) :54
+ Level : 1
+ TotalAttr : 235
+ TotalScore : 301.84
+ ID : https://thecryptoyou.io/market/42661949587302032949239243087924507618141612450502451028499196915989745349346
+
+2022-01-10 23:29:13,847 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.71USDT) 92.67%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :68
+ Sub Attr(Stamina) :54
+ Level : 1
+ TotalAttr : 235
+ TotalScore : 301.84
+ ID : https://thecryptoyou.io/market/42661949587302032949239243087924507618141612450502451028499196915989745349346
+
+2022-01-10 23:29:20,617 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.71USDT) 92.67%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :68
+ Sub Attr(Stamina) :54
+ Level : 1
+ TotalAttr : 235
+ TotalScore : 301.84
+ ID : https://thecryptoyou.io/market/42661949587302032949239243087924507618141612450502451028499196915989745349346
+
+2022-01-10 23:29:27,350 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.74USDT) 92.67%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :68
+ Sub Attr(Stamina) :54
+ Level : 1
+ TotalAttr : 235
+ TotalScore : 301.84
+ ID : https://thecryptoyou.io/market/42661949587302032949239243087924507618141612450502451028499196915989745349346
+
+2022-01-10 23:29:33,890 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.74USDT) 93.59%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :68
+ Sub Attr(Stamina) :54
+ Level : 1
+ TotalAttr : 235
+ TotalScore : 301.84
+ ID : https://thecryptoyou.io/market/42661949587302032949239243087924507618141612450502451028499196915989745349346
+
+2022-01-10 23:29:40,486 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.74USDT) 93.59%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :68
+ Sub Attr(Stamina) :54
+ Level : 1
+ TotalAttr : 235
+ TotalScore : 301.84
+ ID : https://thecryptoyou.io/market/42661949587302032949239243087924507618141612450502451028499196915989745349346
+
+2022-01-10 23:29:47,071 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.74USDT) 93.59%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :68
+ Sub Attr(Stamina) :54
+ Level : 1
+ TotalAttr : 235
+ TotalScore : 301.84
+ ID : https://thecryptoyou.io/market/42661949587302032949239243087924507618141612450502451028499196915989745349346
+
+2022-01-10 23:29:53,588 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.74USDT) 93.59%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :68
+ Sub Attr(Stamina) :54
+ Level : 1
+ TotalAttr : 235
+ TotalScore : 301.84
+ ID : https://thecryptoyou.io/market/42661949587302032949239243087924507618141612450502451028499196915989745349346
+
+2022-01-10 23:30:00,255 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.74USDT) 93.59%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :41
+ Sub Attr(Stamina) :60
+ Level : 1
+ TotalAttr : 193
+ TotalScore : 241.45
+ ID : https://thecryptoyou.io/market/28643852387623572533584572295875047422003534820948823669161483828800967532546
+
+2022-01-10 23:30:02,388 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.74USDT) 93.59%
+ Baby Name :Spot Trader
+ Baby Name :R
+ Main Attr(Vitality) :49
+ Sub Attr(Stamina) :32
+ Level : 1
+ TotalAttr : 194
+ TotalScore : 243.87
+ ID : https://thecryptoyou.io/market/94309558677648878545245226745717577755163240419914193280605084538161437728845
+
+2022-01-10 23:30:09,147 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.74USDT) 93.59%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :41
+ Sub Attr(Stamina) :60
+ Level : 1
+ TotalAttr : 193
+ TotalScore : 241.45
+ ID : https://thecryptoyou.io/market/28643852387623572533584572295875047422003534820948823669161483828800967532546
+
+2022-01-10 23:30:11,281 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.74USDT) 93.59%
+ Baby Name :Spot Trader
+ Baby Name :R
+ Main Attr(Vitality) :49
+ Sub Attr(Stamina) :32
+ Level : 1
+ TotalAttr : 194
+ TotalScore : 243.87
+ ID : https://thecryptoyou.io/market/94309558677648878545245226745717577755163240419914193280605084538161437728845
+
+2022-01-10 23:30:17,897 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.74USDT) 93.59%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :41
+ Sub Attr(Stamina) :60
+ Level : 1
+ TotalAttr : 193
+ TotalScore : 241.45
+ ID : https://thecryptoyou.io/market/28643852387623572533584572295875047422003534820948823669161483828800967532546
+
+2022-01-10 23:30:20,041 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.74USDT) 93.59%
+ Baby Name :Spot Trader
+ Baby Name :R
+ Main Attr(Vitality) :49
+ Sub Attr(Stamina) :32
+ Level : 1
+ TotalAttr : 194
+ TotalScore : 243.87
+ ID : https://thecryptoyou.io/market/94309558677648878545245226745717577755163240419914193280605084538161437728845
+
+2022-01-10 23:30:26,636 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.74USDT) 93.59%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :41
+ Sub Attr(Stamina) :60
+ Level : 1
+ TotalAttr : 193
+ TotalScore : 241.45
+ ID : https://thecryptoyou.io/market/28643852387623572533584572295875047422003534820948823669161483828800967532546
+
+2022-01-10 23:30:28,769 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.74USDT) 93.59%
+ Baby Name :Spot Trader
+ Baby Name :R
+ Main Attr(Vitality) :49
+ Sub Attr(Stamina) :32
+ Level : 1
+ TotalAttr : 194
+ TotalScore : 243.87
+ ID : https://thecryptoyou.io/market/94309558677648878545245226745717577755163240419914193280605084538161437728845
+
+2022-01-10 23:30:35,560 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.74USDT) 93.59%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :41
+ Sub Attr(Stamina) :60
+ Level : 1
+ TotalAttr : 193
+ TotalScore : 241.45
+ ID : https://thecryptoyou.io/market/28643852387623572533584572295875047422003534820948823669161483828800967532546
+
+2022-01-10 23:30:37,694 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.74USDT) 93.59%
+ Baby Name :Spot Trader
+ Baby Name :R
+ Main Attr(Vitality) :49
+ Sub Attr(Stamina) :32
+ Level : 1
+ TotalAttr : 194
+ TotalScore : 243.87
+ ID : https://thecryptoyou.io/market/94309558677648878545245226745717577755163240419914193280605084538161437728845
+
+2022-01-10 23:30:44,249 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.74USDT) 93.59%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :41
+ Sub Attr(Stamina) :60
+ Level : 1
+ TotalAttr : 193
+ TotalScore : 241.45
+ ID : https://thecryptoyou.io/market/28643852387623572533584572295875047422003534820948823669161483828800967532546
+
+2022-01-10 23:30:46,382 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.74USDT) 93.59%
+ Baby Name :Spot Trader
+ Baby Name :R
+ Main Attr(Vitality) :49
+ Sub Attr(Stamina) :32
+ Level : 1
+ TotalAttr : 194
+ TotalScore : 243.87
+ ID : https://thecryptoyou.io/market/94309558677648878545245226745717577755163240419914193280605084538161437728845
+
+2022-01-10 23:30:52,845 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.74USDT) 93.59%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :41
+ Sub Attr(Stamina) :60
+ Level : 1
+ TotalAttr : 193
+ TotalScore : 241.45
+ ID : https://thecryptoyou.io/market/28643852387623572533584572295875047422003534820948823669161483828800967532546
+
+2022-01-10 23:30:54,979 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.74USDT) 93.59%
+ Baby Name :Spot Trader
+ Baby Name :R
+ Main Attr(Vitality) :49
+ Sub Attr(Stamina) :32
+ Level : 1
+ TotalAttr : 194
+ TotalScore : 243.87
+ ID : https://thecryptoyou.io/market/94309558677648878545245226745717577755163240419914193280605084538161437728845
+
+2022-01-10 23:31:01,527 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.74USDT) 93.59%
+ Baby Name :Futures Lover
+ Baby Name :R
+ Main Attr(Strength) :41
+ Sub Attr(Stamina) :60
+ Level : 1
+ TotalAttr : 193
+ TotalScore : 241.45
+ ID : https://thecryptoyou.io/market/28643852387623572533584572295875047422003534820948823669161483828800967532546
+
+2022-01-10 23:31:03,660 - 
+*******************************************************
+R low price notice
+ Price : 6.00 BABY(3.74USDT) 93.59%
+ Baby Name :Spot Trader
+ Baby Name :R
+ Main Attr(Vitality) :49
+ Sub Attr(Stamina) :32
+ Level : 1
+ TotalAttr : 194
+ TotalScore : 243.87
+ ID : https://thecryptoyou.io/market/94309558677648878545245226745717577755163240419914193280605084538161437728845
+
