@@ -48,6 +48,7 @@ def getTotalScore(level, totalAttr, mainAttr, subAttr):
 
 
 noticedInfo = {}
+noticedSty = []
 
 
 def notice(data, baby, babyLevelOnePriceWithUSDT, styPrice, styName):
@@ -71,9 +72,13 @@ def notice(data, baby, babyLevelOnePriceWithUSDT, styPrice, styName):
     for i in range(0, importantWeight):
         importantStr += "*****"
 
-    if (data['nftId'] in noticedInfo) and noticedInfo[data['nftId']] == formatPriceInUSDT:
+    if (data['nftId'] in noticedInfo) and \
+            noticedInfo[data['nftId']] == formatPriceInUSDT and \
+            noticedSty[data['nftId']] == styName:
         return
+
     noticedInfo[data['nftId']] = formatPriceInUSDT
+    noticedSty[data['nftId']] = styName
     logger.info(
         "\n" + importantStr +
         "\n" + styName +
