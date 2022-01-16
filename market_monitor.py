@@ -47,6 +47,9 @@ def getTotalScore(level, totalAttr, mainAttr, subAttr):
     return ((level * 0.05) + 0.5) * mainAttr + ((level * 0.01) + 0.1) * subAttr + (totalAttr * (1 + (0.1 * level)))
 
 
+noticedInfo = {}
+
+
 def notice(data, baby, babyLevelOnePriceWithUSDT, styPrice, styName):
     play_music()
 
@@ -60,18 +63,22 @@ def notice(data, baby, babyLevelOnePriceWithUSDT, styPrice, styName):
         priceInUSDT = float(price) * currentMILKPrice
 
     expectPercent = babyLevelOnePriceWithUSDT / styPrice
-    formatPriceInUSDt = '%.2f' % priceInUSDT
+    formatPriceInUSDT = '%.2f' % priceInUSDT
     formatExpectPercent = '%.2f' % (expectPercent * 100)
 
     importantStr = "*****"
     importantWeight = int((1 / expectPercent) * 10)
     for i in range(0, importantWeight):
         importantStr += "*****"
+
+    if (data['nftId'] in noticedInfo) and noticedInfo[data['nftId']] == formatPriceInUSDT:
+        return
+    noticedInfo[data['nftId']] = formatPriceInUSDT
     logger.info(
         "\n" + importantStr +
         "\n" + styName +
         "\n Price : " + price + " " + data[
-            'token'] + "(" + formatPriceInUSDt + "USDT)" + " " + formatExpectPercent + "%" +
+            'token'] + "(" + formatPriceInUSDT + "USDT)" + " " + formatExpectPercent + "%" +
         "\n Baby Name :" + baby.name +
         "\n Baby RARITY :" + baby.rarity +
         "\n Main Attr(" + static_data.ATTRS_MAP[static_data.MAIN_ATTR_MAP[baby.nftIndex]] + ") :" + str(
