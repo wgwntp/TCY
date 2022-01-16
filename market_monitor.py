@@ -48,7 +48,7 @@ def getTotalScore(level, totalAttr, mainAttr, subAttr):
 
 
 noticedInfo = {}
-noticedSty = []
+noticedSty = {}
 
 
 def notice(data, baby, babyLevelOnePriceWithUSDT, styPrice, styName):
@@ -75,6 +75,7 @@ def notice(data, baby, babyLevelOnePriceWithUSDT, styPrice, styName):
     if (data['nftId'] in noticedInfo) and \
             noticedInfo[data['nftId']] == formatPriceInUSDT and \
             noticedSty[data['nftId']] == styName:
+        print("return")
         return
 
     noticedInfo[data['nftId']] = formatPriceInUSDT
