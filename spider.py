@@ -3,11 +3,11 @@ import json
 
 from log4py import Logger
 
-
 Logger.set_level("INFO")
 log = Logger.get_logger(__name__)
 
-COIN_MARKET_API_KEY = '70131ef7-eb12-418f-89fe-5e9564c96379'
+# COIN_MARKET_API_KEY = '70131ef7-eb12-418f-89fe-5e9564c96379'
+COIN_MARKET_API_KEY = '73a77d19-503c-4d07-b368-6f00a71f668c'
 
 
 def getMarketPrice():
@@ -45,5 +45,3 @@ def getLeaderInfo():
                                  'Content-Type': 'application/json',
                                  'origin': 'https://thecryptoyou.io'})
     print(response.text)
-
-

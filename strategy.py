@@ -313,27 +313,27 @@ strategies = [
         noticePrice=3,
         rarity=static_data.RARITY_MAP[static_data.RARITY_SR]),
     # r
-    newStrategy(
-        name="R 99 part time low price notice",
-        mainAttr=99,
-        noticePrice=6,
-        score=240,
-        rarity=static_data.RARITY_MAP[static_data.RARITY_R]),
-    newStrategy(
-        name="R 98 part time low price notice",
-        mainAttr=98,
-        noticePrice=5,
-        rarity=static_data.RARITY_MAP[static_data.RARITY_R]),
-    newStrategy(
-        name="R 97 part time low price notice",
-        mainAttr=97,
-        noticePrice=4,
-        rarity=static_data.RARITY_MAP[static_data.RARITY_R]),
-    newStrategy(
-        name="R part time low price notice",
-        mainAttr=10,
-        noticePrice=3,
-        rarity=static_data.RARITY_MAP[static_data.RARITY_R]),
+    # newStrategy(
+    #     name="R 99 part time low price notice",
+    #     mainAttr=99,
+    #     noticePrice=6,
+    #     score=240,
+    #     rarity=static_data.RARITY_MAP[static_data.RARITY_R]),
+    # newStrategy(
+    #     name="R 98 part time low price notice",
+    #     mainAttr=98,
+    #     noticePrice=5,
+    #     rarity=static_data.RARITY_MAP[static_data.RARITY_R]),
+    # newStrategy(
+    #     name="R 97 part time low price notice",
+    #     mainAttr=97,
+    #     noticePrice=4,
+    #     rarity=static_data.RARITY_MAP[static_data.RARITY_R]),
+    # newStrategy(
+    #     name="R part time low price notice",
+    #     mainAttr=10,
+    #     noticePrice=3,
+    #     rarity=static_data.RARITY_MAP[static_data.RARITY_R]),
     # newStrategy(
     #     name="test",
     #     noticePrice=600,

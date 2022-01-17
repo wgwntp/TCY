@@ -74,12 +74,15 @@ def notice(data, baby, babyLevelOnePriceWithUSDT, styPrice, styName):
 
     if (data['nftId'] in noticedInfo) and \
             (priceInUSDT - 50) <= noticedInfo[data['nftId']] <= (priceInUSDT + 50) and \
-            noticedSty[data['nftId']] == styName:
-        print("return")
+            styName in noticedSty[data['nftId']]:
         return
 
+    styList = []
+    if data['nftId'] in noticedSty:
+        styList = noticedSty[data['nftId']]
+    styList.append(styName)
     noticedInfo[data['nftId']] = priceInUSDT
-    noticedSty[data['nftId']] = styName
+    noticedSty[data['nftId']] = styList
     logger.info(
         "\n" + importantStr +
         "\n" + styName +
