@@ -110,9 +110,9 @@ def isNotice(stgy, baby, babyLevelOnePriceWithUSDT):
 
 
 def check():
-    logger.debug("\nMonitor running" +
-                 "\nBABY current price(USDT)" + str(currentBABYPrice) +
-                 "\nMILK current price(USDT)" + str(currentMILKPrice))
+    # logger.debug("\nMonitor running" +
+    #              "\nBABY current price(USDT)" + str(currentBABYPrice) +
+    #              "\nMILK current price(USDT)" + str(currentMILKPrice))
     sortedList = spider.getMarketList()
     for num in range(0, 5):
         data = sortedList[num]
