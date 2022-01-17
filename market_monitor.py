@@ -73,12 +73,12 @@ def notice(data, baby, babyLevelOnePriceWithUSDT, styPrice, styName):
         importantStr += "*****"
 
     if (data['nftId'] in noticedInfo) and \
-            noticedInfo[data['nftId']] == formatPriceInUSDT and \
+            (priceInUSDT - 50) <= noticedInfo[data['nftId']] <= (priceInUSDT + 50) and \
             noticedSty[data['nftId']] == styName:
         print("return")
         return
 
-    noticedInfo[data['nftId']] = formatPriceInUSDT
+    noticedInfo[data['nftId']] = priceInUSDT
     noticedSty[data['nftId']] = styName
     logger.info(
         "\n" + importantStr +
