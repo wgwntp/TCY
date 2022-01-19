@@ -184,7 +184,7 @@ def AutoCheckMarket():
             check()
             time.sleep(3)
         except Exception as e:
-            logger.debug(e)
+            # logger.debug(e)
             time.sleep(3)
 
 
