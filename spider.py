@@ -16,7 +16,6 @@ cfg = yaml.load(f, Loader=Loader)
 
 COIN_MARKET_API_KEY = cfg['coinmarketcap_api']
 print(COIN_MARKET_API_KEY)
-# COIN_MARKET_API_KEY = '73a77d19-503c-4d07-b368-6f00a71f668c'
 
 
 def getMarketPrice():
