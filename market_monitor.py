@@ -25,7 +25,7 @@ logger.setLevel(logging.DEBUG)
 
 def play_music(level):
     wave_obj = simpleaudio.WaveObject.from_wave_file("music/gold.wav")
-    if level == static_data.MUSIC_LEVEL_LV1:
+    if level == static_data.NOTICE_LEVEL_LV1:
         wave_obj = simpleaudio.WaveObject.from_wave_file("music/win.wav")
 
     play_obj = wave_obj.play()
@@ -183,8 +183,8 @@ def AutoCheckMarket():
         try:
             check()
             time.sleep(3)
-        except Exception:
-            # logger.debug(e)
+        except Exception as e:
+            logger.debug(e)
             time.sleep(3)
 
 
