@@ -1,13 +1,22 @@
 import requests
 import json
+import yaml
+try:
+    from yaml import CLoader as Loader, CDumper as Dumper
+except ImportError:
+    from yaml import Loader, Dumper
 
 from log4py import Logger
 
 Logger.set_level("INFO")
 log = Logger.get_logger(__name__)
 
-# COIN_MARKET_API_KEY = '70131ef7-eb12-418f-89fe-5e9564c96379'
-COIN_MARKET_API_KEY = '73a77d19-503c-4d07-b368-6f00a71f668c'
+f = open(r'./config.yml')
+cfg = yaml.load(f, Loader=Loader)
+
+COIN_MARKET_API_KEY = cfg['coinmarketcap_api']
+print(COIN_MARKET_API_KEY)
+# COIN_MARKET_API_KEY = '73a77d19-503c-4d07-b368-6f00a71f668c'
 
 
 def getMarketPrice():

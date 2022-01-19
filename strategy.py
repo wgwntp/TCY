@@ -15,6 +15,16 @@ def newStrategy(name="", babyName="", token="USDT", mainAttr=0, subAttr=0, notic
     return strategy
 
 
+lv1Strategies = [
+    newStrategy(
+        name="SSR 99 410+ low price notice",
+        babyName=static_data.BABY_NAME_BITCOIN_HOLDER,
+        mainAttr=99,
+        subAttr=61,
+        noticePrice=1500,
+        score=410)
+]
+
 strategies = [
     # ssr 99
     newStrategy(

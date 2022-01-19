@@ -64,3 +64,7 @@ RARITY_SR = 2
 RARITY_R = 1
 
 ATTRS_MAP = {0: 'Strength', 1: 'Dexterity', 2: 'Vitality', 3: 'Mentality', 4: 'Grit', 5: 'Stamina'}
+
+NOTICE_LEVEL_NORMAL = 0
+NOTICE_LEVEL_LV1 = 1
+NOTICE_LEVEL_LV2 = 2

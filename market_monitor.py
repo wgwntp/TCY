@@ -23,8 +23,11 @@ logger.addHandler(handler)
 logger.setLevel(logging.DEBUG)
 
 
-def play_music():
-    wave_obj = simpleaudio.WaveObject.from_wave_file("./15011.wav")
+def play_music(level):
+    wave_obj = simpleaudio.WaveObject.from_wave_file("music/gold.wav")
+    if level == static_data.MUSIC_LEVEL_LV1:
+        wave_obj = simpleaudio.WaveObject.from_wave_file("music/win.wav")
+
     play_obj = wave_obj.play()
     while True:
         if not (play_obj.is_playing()):
@@ -51,8 +54,8 @@ noticedInfo = {}
 noticedSty = {}
 
 
-def notice(data, baby, babyLevelOnePriceWithUSDT, styPrice, styName):
-    play_music()
+def notice(data, baby, babyLevelOnePriceWithUSDT, styPrice, styName, noticeLevel):
+    play_music(noticeLevel)
 
     totalScore = getTotalScore(baby.level, baby.getTotalAttr(), baby.getMainAttr(), baby.getSubAttr())
     formatTotalScore = '%.2f' % totalScore
@@ -140,7 +143,24 @@ def check():
         for stgy in strategy.strategies:
             if (stgy.babyName != "" and stgy.babyName == baby.name) or (stgy.rarity == baby.rarity):
                 if isNotice(stgy, baby, babyLevelOnePriceWithUSDT):
-                    notice(data, baby, babyLevelOnePriceWithUSDT, stgy.noticePrice, stgy.name)
+                    notice(
+                        data,
+                        baby,
+                        babyLevelOnePriceWithUSDT,
+                        stgy.noticePrice,
+                        stgy.name,
+                        static_data.NOTICE_LEVEL_NORMAL)
+
+        for lv1Stg in strategy.lv1Strategies:
+            if (lv1Stg.babyName != "" and lv1Stg.babyName == baby.name) or (lv1Stg.rarity == baby.rarity):
+                if isNotice(lv1Stg, baby, babyLevelOnePriceWithUSDT):
+                    notice(
+                        data,
+                        baby,
+                        babyLevelOnePriceWithUSDT,
+                        lv1Stg.noticePrice,
+                        lv1Stg.name,
+                        static_data.NOTICE_LEVEL_LV1)
 
 
 def AutoUpdateCurrentPrice():
@@ -153,8 +173,8 @@ def AutoUpdateCurrentPrice():
                 currentBABYPrice = babyP
                 currentMILKPrice = milkP
             time.sleep(300)
-        except Exception as apiErr:
-            logger.debug(apiErr)
+        except Exception:
+            # logger.debug(apiErr)
             time.sleep(300)
 
 
@@ -163,8 +183,9 @@ def AutoCheckMarket():
         try:
             check()
             time.sleep(3)
-        except Exception as e:
-            logger.debug(e)
+        except Exception:
+            # logger.debug(e)
+            time.sleep(3)
 
 
 t = threading.Thread(target=AutoUpdateCurrentPrice)
