@@ -142,7 +142,7 @@ strategies = [
     newStrategy(
         name="SSR low price notice",
         mainAttr=10,
-        noticePrice=30,
+        noticePrice=10,
         rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
     # sr 99
     newStrategy(
