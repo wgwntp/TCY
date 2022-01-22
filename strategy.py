@@ -75,75 +75,75 @@ strategies = [
         score=410,
         noticePrice=600,
         rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
-    # ssr 98
-    newStrategy(
-        name="SSR 98 400 low price notice",
-        mainAttr=98,
-        subAttr=61,
-        score=400,
-        noticePrice=500,
-        rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
-    newStrategy(
-        name="SSR 98 390 low price notice",
-        mainAttr=98,
-        subAttr=61,
-        score=390,
-        noticePrice=300,
-        rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
-    newStrategy(
-        name="SSR 98 low price notice",
-        mainAttr=98,
-        subAttr=61,
-        noticePrice=200,
-        rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
-    # ssr 97
-    newStrategy(
-        name="SSR 97 420+ low price notice",
-        mainAttr=97,
-        subAttr=61,
-        noticePrice=1000,
-        score=420,
-        rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
-    newStrategy(
-        name="SSR 97 410 low price notice",
-        mainAttr=97,
-        subAttr=61,
-        score=410,
-        noticePrice=600,
-        rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
-    newStrategy(
-        name="SSR 97 400 low price notice",
-        mainAttr=97,
-        subAttr=61,
-        score=400,
-        noticePrice=500,
-        rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
-    newStrategy(
-        name="SSR 97 390 low price notice",
-        mainAttr=97,
-        subAttr=61,
-        score=390,
-        noticePrice=300,
-        rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
-    newStrategy(
-        name="SSR 97 low price notice",
-        mainAttr=97,
-        subAttr=61,
-        noticePrice=200,
-        rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
-    # ssr 90
-    newStrategy(
-        name="SSR 90 low price notice",
-        mainAttr=90,
-        subAttr=61,
-        noticePrice=100,
-        rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
-    # ssr low
-    newStrategy(
-        name="SSR low price notice",
-        mainAttr=10,
-        noticePrice=10,
-        rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
+    # # ssr 98
+    # newStrategy(
+    #     name="SSR 98 400 low price notice",
+    #     mainAttr=98,
+    #     subAttr=61,
+    #     score=400,
+    #     noticePrice=500,
+    #     rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
+    # newStrategy(
+    #     name="SSR 98 390 low price notice",
+    #     mainAttr=98,
+    #     subAttr=61,
+    #     score=390,
+    #     noticePrice=300,
+    #     rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
+    # newStrategy(
+    #     name="SSR 98 low price notice",
+    #     mainAttr=98,
+    #     subAttr=61,
+    #     noticePrice=200,
+    #     rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
+    # # ssr 97
+    # newStrategy(
+    #     name="SSR 97 420+ low price notice",
+    #     mainAttr=97,
+    #     subAttr=61,
+    #     noticePrice=1000,
+    #     score=420,
+    #     rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
+    # newStrategy(
+    #     name="SSR 97 410 low price notice",
+    #     mainAttr=97,
+    #     subAttr=61,
+    #     score=410,
+    #     noticePrice=600,
+    #     rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
+    # newStrategy(
+    #     name="SSR 97 400 low price notice",
+    #     mainAttr=97,
+    #     subAttr=61,
+    #     score=400,
+    #     noticePrice=500,
+    #     rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
+    # newStrategy(
+    #     name="SSR 97 390 low price notice",
+    #     mainAttr=97,
+    #     subAttr=61,
+    #     score=390,
+    #     noticePrice=300,
+    #     rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
+    # newStrategy(
+    #     name="SSR 97 low price notice",
+    #     mainAttr=97,
+    #     subAttr=61,
+    #     noticePrice=200,
+    #     rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
+    # # ssr 90
+    # newStrategy(
+    #     name="SSR 90 low price notice",
+    #     mainAttr=90,
+    #     subAttr=61,
+    #     noticePrice=100,
+    #     rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
+    # # ssr low
+    # newStrategy(
+    #     name="SSR low price notice",
+    #     mainAttr=10,
+    #     noticePrice=10,
+    #     rarity=static_data.RARITY_MAP[static_data.RARITY_SSR]),
     # sr 99
     newStrategy(
         name="SR 99 340 low price notice",
@@ -187,33 +187,33 @@ strategies = [
         score=340,
         noticePrice=550,
         rarity=static_data.RARITY_MAP[static_data.RARITY_SR]),
-    newStrategy(
-        name="SR 98 330 low price notice",
-        mainAttr=98,
-        subAttr=61,
-        score=330,
-        noticePrice=300,
-        rarity=static_data.RARITY_MAP[static_data.RARITY_SR]),
-    newStrategy(
-        name="SR 98 320 low price notice",
-        mainAttr=98,
-        subAttr=61,
-        score=320,
-        noticePrice=200,
-        rarity=static_data.RARITY_MAP[static_data.RARITY_SR]),
-    newStrategy(
-        name="SR 98 310 low price notice",
-        mainAttr=98,
-        subAttr=61,
-        score=310,
-        noticePrice=100,
-        rarity=static_data.RARITY_MAP[static_data.RARITY_SR]),
-    newStrategy(
-        name="SR 98 low price notice",
-        mainAttr=98,
-        subAttr=61,
-        noticePrice=50,
-        rarity=static_data.RARITY_MAP[static_data.RARITY_SR]),
+    # newStrategy(
+    #     name="SR 98 330 low price notice",
+    #     mainAttr=98,
+    #     subAttr=61,
+    #     score=330,
+    #     noticePrice=300,
+    #     rarity=static_data.RARITY_MAP[static_data.RARITY_SR]),
+    # newStrategy(
+    #     name="SR 98 320 low price notice",
+    #     mainAttr=98,
+    #     subAttr=61,
+    #     score=320,
+    #     noticePrice=200,
+    #     rarity=static_data.RARITY_MAP[static_data.RARITY_SR]),
+    # newStrategy(
+    #     name="SR 98 310 low price notice",
+    #     mainAttr=98,
+    #     subAttr=61,
+    #     score=310,
+    #     noticePrice=100,
+    #     rarity=static_data.RARITY_MAP[static_data.RARITY_SR]),
+    # newStrategy(
+    #     name="SR 98 low price notice",
+    #     mainAttr=98,
+    #     subAttr=61,
+    #     noticePrice=50,
+    #     rarity=static_data.RARITY_MAP[static_data.RARITY_SR]),
     # sr
     # newStrategy(
     #     name="SR 99 350 + part time low price notice",
