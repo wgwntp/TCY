@@ -150,7 +150,7 @@ strategies = [
         mainAttr=99,
         subAttr=61,
         score=340,
-        noticePrice=500,
+        noticePrice=400,
         rarity=static_data.RARITY_MAP[static_data.RARITY_SR]),
     newStrategy(
         name="SR 99 330 low price notice",
